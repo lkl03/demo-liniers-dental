@@ -1,2 +1,7 @@
-# demo-liniers-dental
-Demo web para Liniers Dental — diseñada por eterlab.
+# Liniers Dental
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
